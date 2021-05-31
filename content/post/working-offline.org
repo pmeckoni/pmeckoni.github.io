@@ -1,0 +1,72 @@
+#+title: Working Offline
+#+date: 2021-03-17
+
+The Internet is a great big distraction. Without going in to the details on how this has happened, I can share some strategies to counter this distraction, by turning it off while working.
+# more
+
+It may be the case that you may frequently using web searches to find solutions to immediate problems -- trivial or complex -- and then diving in to the rabbit hole. Most of the trivial problems are related to lack of understanding of the underlying technical issue. These can be solved by accessing the documentation available on the local machine than seeking help from web search engines.
+
+For programming, scientific or commercial, we try to look up an error or describe the problem, and it often leads us to the ''peer reviewed'' [[https://stackexchange.com/sites#questionsperday][StackExchange]] related solutions, or to discussion forums and web-blogs. For many people, the solutions are just the same as described in the fine manuals. Web searches make it easier to retrieve that information for most people.
+
+* Documentation 
+I have been able to set up my work environment to reduce web searches for trivial problems. The first problem is being able to search for documentation. 
+
+** \(\LaTeX\)
+
+The easiest way to search for the package documentation is using =texdoc -l <packagename>= in your shell.
+
+#+BEGIN_SRC bash :exports both :results output :eval no-export
+texdoc -l geometry
+#+END_SRC
+
+#+RESULTS:
+#+begin_example
+ 1 /usr/share/texlive/texmf-dist/doc/latex/geometry/geometry.pdf
+   = Users' manual
+ 2 /usr/share/texlive/texmf-dist/doc/latex/lapdf/geometry.pdf
+ 3 /usr/share/texlive/texmf-dist/doc/latex/geometry-de/geometry-de.pdf
+   = [de] Users' manual
+ 4 /usr/share/texlive/texmf-dist/doc/metapost/mp3d/tugboat-geometry-space.pdf
+   = [en] Paper on geometry, for TUGboat
+ 5 /usr/share/texlive/texmf-dist/doc/latex/geometry/README.md
+   = Package Readme
+ 6 /usr/share/texlive/texmf-dist/doc/latex/geometry/changes.txt.gz
+ 7 /usr/share/texlive/texmf-dist/doc/luatex/luatexja/lltjp-geometry.pdf
+ 8 /usr/share/texlive/texmf-dist/doc/latex/geometry-de/README
+   = [en] Package Readme
+ 9 /usr/share/texlive/texmf-dist/doc/latex/geometry-de/README-DE
+   = [de] Package Readme (German)
+Enter number of file to view, RET to view 1, anything else to skip: 
+#+end_example
+
+
+You get a list of files that =texdoc= recommends. Select the file number from the provided list and the file will open.
+
+Alternately you may use the graphical menu from =TeXdoctk= to search or browse the documentation including the detailed tutorials and manuals like "The Comprehensive \(\LaTeX\) Symbol List".
+
+
+#+DOWNLOADED: screenshot @ 2020-06-13 02:40:44
+#+CAPTION: Screenshot of =TeXdoctk=
+[[file:/img/texdoctk-screenshot.png]]
+
+** Python
+
+Python documentation is available for offline use. You can either directly download it from [[https://docs.python.org/3/download.html][here]], or you can install it from the place where you get your python binaries. Full documentation for all the libraries and packages are also provided on their respective webpages. If you use one of the Linux distributions, then the documentation can be obtained from the package manager.
+For all the offline documentation that I have used, HTML documentation works excellent on local file system through a web-browser. Somehow searches also work without a server, though I always wonder on how it is done.
+
+** Matlab
+   Matlab has in-built documentation with excellent search capabilities.
+
+** R
+   R documentation is excellent and available offline with the packages. Searching sometimes becomes difficult, but your "IDE" can help.
+
+** Zeal & Dash
+   [[https://zealdocs.org/][Zeal]] is an offline documentation browser, and supports all my needs for looking up API documentation. It works with LaTeX, Python, Numpy, Pandas, Matplotlib, and dozens of others which I don't use.
+   [[https://kapeli.com/dash][Dash]] is its equivalent on Apple devices.
+     
+* Literature & Bibliography
+I use [[https://www.zotero.org/][Zotero]] which is a completely offline reference manager. Though allows you to sync to the Zotero sync servers, still everything is available on your local machine, including notes, annotations, the pdf files etc.
+Zotero being a community maintained software does not force upgrades, and works without the internet. It also auto-generates bibtex and biblatex files.
+* End notes
+The biggest benefit of working offline is that we are forced to work without distractions. This is like training for a marathon where you need to start somewhere and keep building up stamina to avoid distractions and keep focused on your work for a longer duration in one sitting. 
+Of course, all cellphones and other devices need to be turned off and kept in a different room to further maximize gains.

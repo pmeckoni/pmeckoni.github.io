@@ -1,0 +1,165 @@
+#+title: Graduate students with families in UMass Amherst
+#+date: 2018-05-09
+#+Lastmod: 2018-05-09
+
+My understanding on the finances related to a graduate student with a family.
+# more
+
+* Brief about Amherst, UMass, Graduate programs
+The University of Massachusetts Amherst is the flagship university of the Commonwealth of Massachusetts. It is in Amherst, a tiny  college town in Western Massachusetts. Amherst and the surrounding towns are home to the Five College Consortium consisting of:
+1. Amherst College (in Amherst, MA).
+2. Hampshire College (in Amherst, MA).
+3. Mount Holyoke College (in South Hadley, MA).
+4. Smith College (in Northampton, MA).
+5. UMass Amherst (in Amherst, MA).
+
+The entire Pioneer Valley is beautiful and takes pride in being a vibrant community. 
+
+UMass Amherst provides opportunities for graduate studies - masters and doctoral programs. In this article, I intend to brief you about the life of graduate students with families in UMass Amherst.
+
+* Living Expenses, Family Housing
+Generally speaking, the Town of Amherst if relatively expensive as compared the the neighbouring towns. There are a few prominent rental apartment complexes closer the the university campus or easily accessible using public bus service. Puffton Village, Crestview Apartments, Presidential Apartments, The Boulders, Aspen Chase, Colonial Village, Brandywine Apartments, Townehouse of Amherst are some of the apartments where some of my colleauges have resided during their stay in Amherst.
+
+Utilities generally include Internet, Cable TV, Electricity, Water, Sewer.
+Hot water generally indicates that heating of water using gas is provided. Water itself is paid separately.
+
+| Apartments                         | Rent monthly (2 Bedroom) as on 2018-05-10 | Included                     | Not Included               |
+|                                    |                                       <r> |                              |                            |
+|------------------------------------+-------------------------------------------+------------------------------+----------------------------|
+| North village UMass Family Housing |   [[https://www.umass.edu/living/residence/family/rates][$981 (rent) + $30 (telecom fee) = $1011]] | Utilities, Heat, Hot Water   | Parking ($120 annually)    |
+| Puffton Village                    |                                    [[http://www.pufftonvillage.com/portfolio/puffton-village-2-bedroom-townhouse/][$1,510]] | Heat, Gas cooking, Hot water | Utilities, Parking         |
+| Colonial Village                   |                                    [[https://kaminsrealestate.com/our-rentals/rentals-by-list/property/5001-colonial-village][$1,100]] | Hot water, Parking           | Utilities                  |
+| Crestview Apartments               |                                    [[https://kaminsrealestate.com/our-rentals/rentals-by-list/property/5004-crestview-apartments][$1,350]] |                              | Utilities, Hot Water, Heat |
+| Presidential Apartments            |                                    [[https://kaminsrealestate.com/our-rentals/rentals-by-list/property/5077-presidential-apartments-2-bedroom][$1,400]] | Heat, Hot Water              | Utilities                  |
+| The Boulders                       |                                    [[https://www.bouldersapartmenthomes.com/south-amherst/the-boulders-apartment-homes/][$1,298]] | Heat                         | Utilities                  |
+| Aspen Chase                        |                                    [[https://www.aspensquare.com/apartments/massachusetts/amherst/aspen-chase/floorplans-pricing/2-bedroom][$1,625]] | Utilities                    |                            |
+| Brandywine Apartments              |                                    [[http://www.brandywine-apts.com/price-availability/][$1,430]] |                              | Parking ($100 annually)    |
+| Townehouse of Amherst              |                                           |                              | Utilities                  |
+|------------------------------------+-------------------------------------------+------------------------------+----------------------------|
+
+** Local Transport
+Local transport is provided by UMass Amherst run PVTA public buses. These are effectively free of charge since the fares are paid as part of the fees by students. Many popular apartments are on bus routes.
+
+** Groceries
+Two popular grocery stores accessible by bus are Stop & Shop and Big Y. Below is an average list of items. Items like apples have multiple prices
+
+| Item              | Price $ |                  Units |
+|                   |     <r> |                    <r> |
+|-------------------+---------+------------------------|
+| Milk              |    2.50 | 1 gallon (3.785 litre) |
+| Whole Wheat Bread |    4.00 |       24 oz (680 gram) |
+| Butter            |    4.00 |        1 lb (454 gram) |
+| Cheese Slices     |    4.00 |        1 lb (454 gram) |
+| Bananas           |    0.48 |        1 lb (454 gram) |
+| Apples            |    3.00 |        1 lb (454 gram) |
+| Potatoes          |    6.00 |  10 lb (4.54 kilogram) |
+| Onions            |    5.00 |  5 lb  (2.27 kilogram) |
+| Sugar             |    2.00 |        2 lb (907 gram) |
+| Salt              |    0.80 |       26 oz (737 gram) |
+| Rice              |    9.00 |  20 lb (9.07 kilogram) |
+| Cabbage           |    2.50 |                1 piece |
+| Carrots           |    3.30 |   5 lb (2.27 kilogram) |
+|-------------------+---------+------------------------|
+
+** Laundry
+Most self-service laundry facilities are around $2.50 to $4.00 for wash and similar for dry. Each self-service load can be approx 10-12 lb (4.5 -- 5.5 kilograms) which equivalent for 2 weeks of clothes per person.
+
+** Telecom & Internet
+Town of Amherst has provided a virtual monopoly to Comcast for Internet access and Cable TV. Minimum cost of Internet will be around $32. Unlike many countries, in USA, the advertised cost is not the final cost. The ISP will have additional charges as modem rental fee, service fee, conveinenc fee, and other ad-hoc charges which won't be clear until you ask and even get your first bill. Since there is no contract involved, the rates can change.
+
+Cell phones can cost anywhere between $40 to $80 a month as service fees only. The cost of the handset will be different. I however have an approx monthly fee of $8 since I use a mobile virtual network operator (Tracfone) when I don't have wifi access on campus or at home.
+
+
+* Fees at UMass Amherst
+Typical fees at UMass Amherst for each semester include
+1. Graduate Entering Fee -- one time fee for enrollment.
+2. Tuition fee -- varies with number of credits enrolled.
+3. Service fee --  varies with number of credits enrolled.
+4. Senate fee -- fixed fee.
+5. Student Health Fee -- fixed (applicable only if enrolled for >= 5 credits)
+6. Student Health Benefit Program -- health insurance (can be waived if you have similar insurance)
+7. Engineering Fee -- applicable to College of Engineering only; varies with number of credits enrolled.
+
+The fee structure is available at [[http://www.umass.edu/bursar/tuition-and-fees][Office of the Bursar]]. Being a public university, these fees seem to be competitive as compared to private universities. However, most students with permanent residence outside of Massachusetts (out-of-state students) do not have much advantage. 
+
+
+
+* Fees, Tuition Waiver, Graduate Assistantship, Engineering Fees
+If you have been awarded a graduate assistantship, then your tuition fee is waived off. The [[http://www.geouaw.org/][Graduate Employees Organization (GEO)]] is the graduate students' labor union that does collective bargaining with the UMass administration to ensure that benefits are provided to student employees. If you have a graduate assistantship, you are eligible to be a GEO member. 
+
+Tuition is a major component of the fees. But even if your tuition fees are waived off, you still have other fees to be paid. These are not waived off. I strongly encourage you to explore the other fees for each semester.
+
+- Service Fee (varies as per number of credits)
+- Graduate Senate Fee (fixed fee)
+- [[https://www.umass.edu/uhs/insurance/studenthealthfee][Student Health Fee]] (fixed fee -- not applicable if you take 4 credits or less. Different fees for students with families)
+- Engineering Fee (slab based varying by credits -- not applicable to other departments)
+
+There was a discussion earlier on engineering fee. The GEO argued that it doesn't make sense to charge an engineering fee since the the graduate students don't use the engineering labs as undergradute students do. 
+
+
+* Health Insurance, Dental, Eye Insurances, Wellness
+The Health Insurance is a mandatory requirement by UMass, unless you can show proof of equivalent insurance coverage for yourself. Family health insurance comes at a higher premium. The student is expected to pay the insurance premium as part of their fees. The GEO website has some [[https://www.geouaw.org/?page_id=1000][information on the health insurance and the discount applicable for a GEO eligible student]]. There may be some confusion between Student Health Benefit Plan and Student Health Fee for new students -- espescially for those coming from countries where health insurance is easy or non-existent. Student Health Benefit Plan is the insurance while the [[https://www.umass.edu/uhs/insurance/studenthealthfee][Student Health Fee]] covers the expenses to seek treatment at the University Health Services [[https://www.umass.edu/uhs/insurance/studenthealthfee][Student Health Fee]]. Even with the GEO contract waiver of 95% on the insurance premiums and the SHBP, the additional cost for health fees is $1,033.76 per year (2017-18).
+
+Dental insurance and Eye Insurance is made available by the [[https://www.uawumasstrustfund.org][GEO's Health & Welfare Trust fund]]. The [[https://www.uawumasstrustfund.org/geo-dental][dental benefits]] and [[https://www.uawumasstrustfund.org/geo-vision][Vision benefits]] are generous. Dental insurance is free for GEO eligible individual students. GEO eligible students with families need to pay $100 to cover their families. Eye Insurance is free for GEO eligible individual students and for GEO eligible students with families. I have encountered numerous familes skipping the dental insurance due to the $100 fee. This becomes a nightmare later on when you need to go in for emergency visits due to acute tooth pain. [[https://www.ncbi.nlm.nih.gov/pubmed/25452991][A study in South Nigeria on the pattern of demand for endodontic treatment]] has indicate that for the age group 20-29, people visiting a dentist will be most likely for a root canal treatment (42%). This is the age-group for most graduate students. The costs of a complete root canal treatment are enormous in the USA.
+
+Wellness reimbursement is provided for upto $190 per year by the [[https://www.uawumasstrustfund.org][GEO's Health & Welfare Trust fund]]. This is to encourage students to take up recreation activities like gym, rock-climbing etc and keep GEO eligible students healthy -- physically and mentally. The UMass Amherst campus has awesome [[https://www.umass.edu/campusrec/][recreation facilities]] for which GEO eligible graduate students can pay to get membership and then get most of the membership fees reimbursed. For student families interested in membership for the family, the UMass campus recreation does not allow children of age 5 and below to use the facilities.
+
+A 2018-19 comparative school related expenses with 9 credits per semester for a typical year with for out-of-state students with and without families is below:
+
+|-------------------------------------------------------+---------------------+--------------------+--------------------+---------------------+---------------------|
+|                                                       |                     |       GEO-Eligible |   NOT GEO-Eligible |    NOT GEO-Eligible |        GEO-Eligible |
+|                                                       |                     | Student Individual | Student Individual | Student with Family | Student with Family |
+| <l>                                                   |                 <r> |                <r> |                <r> |                 <r> |                 <r> |
+|-------------------------------------------------------+---------------------+--------------------+--------------------+---------------------+---------------------|
+| [[https://www.umass.edu/bursar/tuition/graduate-tuition-rates][Tuition]]                                               | (18 credits 1 year) |               0.00 |          28,669.00 |           28,669.00 |                0.00 |
+| [[https://www.umass.edu/bursar/tuition/graduate-tuition-rates][Service Fee]]                                           | (18 credits 1 year) |           1,270.00 |           1,270.00 |            1,270.00 |            1,270.00 |
+| [[https://www.umass.edu/bursar/tuition/graduate-tuition-rates][Graduate Senate Tax]]                                   | (18 credits 1 year) |             138.00 |             138.00 |              138.00 |              138.00 |
+| [[https://www.umass.edu/bursar/tuition/graduate-tuition-rates][Student Health Fee]]                                    | (18 credits 1 year) |              37.46 |             768.00 |            3,227.00 |              285.26 |
+| [[https://www.umass.edu/gradschool/sites/default/files/Fee%2520Schedule%2520Fall%252018%2520Spring%252019_3.pdf][Health Insurance (Student Health Benefit Plan – SHBP)]] |            (1 year) |             150.50 |           2,970.00 |           11,448.00 |              572.40 |
+| [[https://www.uawumasstrustfund.org/geo][Dental Insurance]]                                      |            (1 year) |               0.00 |                 NA |                  NA |              100.00 |
+| [[https://www.uawumasstrustfund.org/geo][Eye Insurance]]                                         |            (1 year) |               0.00 |                 NA |                  NA |                0.00 |
+|-------------------------------------------------------+---------------------+--------------------+--------------------+---------------------+---------------------|
+| TOTAL                                                 |                     |           1,595.96 |          33,815.00 |           44,752.00 |            2,365.66 |
+|-------------------------------------------------------+---------------------+--------------------+--------------------+---------------------+---------------------|
+| [[https://www.umass.edu/bursar/tuition/graduate-tuition-rates][Engineering Fee]]                                       | (18 credits 1 year) |             830.00 |             830.00 |              830.00 |              830.00 |
+|-------------------------------------------------------+---------------------+--------------------+--------------------+---------------------+---------------------|
+| TOTAL For Engineering Majors                          |                     |           2,425.96 |          34,645.00 |           45,582.00 |             3195.66 |
+|-------------------------------------------------------+---------------------+--------------------+--------------------+---------------------+---------------------|
+
+
+
+* Child care & elementary schools
+** Infant & Toddler child care
+Childcare expenses are very high in and around Amherst, MA as it is in the whole country. In fact, Massachusetts has the highest dollar cost for family child-care for infants and toddlers. In Massachusetts, [[http://usa.childcareaware.org/wp-content/uploads/2017/12/2017_CCA_High_Cost_Report_FINAL.pdf#page=14][the average annual cost of infant care in a Center-based infant care is $20,125]]. You should definitely explore the details of expenses related to [[http://usa.childcareaware.org/advocacy-public-policy/resources/research/costofcare/][childcare on this website]].
+
+On the UMass campus, the [[https://www.umass.edu/ceec/][Center for Early Education and Care]], provides preschool facilities and day-care facilities for eligible children of age more than 15 months. The facility has rules for prioritizing wait lists. The fee structure isn't provided on the website and you need to request it from facility staff. 
+
+The Graduate Student Senate provides child care reimbursement using two funds: 
+1. Graduate Student Senate funds
+2. Student Affairs and Campus life funds
+
+From the [[http://blogs.umass.edu/gss/gss-child-care-assistance-program-distribution-policy-s17-2/][GSS Child Care Assistance Program Distribution Policy]] possibly published in January 2017, there are the following statistics for Fall 2016.
+
+|---------+-----------+----------------------------------------|
+|         | GSS funds | Students Affairs and Campus Life funds |
+| <l>     |       <r> |                                    <r> |
+|---------+-----------+----------------------------------------|
+| Minimum |    $23.47 |                                $105.67 |
+| Average |   $303.03 |                                $357.14 |
+| Maximum |   $610.15 |                                $519.64 |
+|---------+-----------+----------------------------------------|
+
+The policy has a formula for calculating the funds to be provided for childcare reimbursement. 
+
+The GEO has funds that GEO eligible students can seek [[https://www.uawumasstrustfund.org/geo-childcare][childcare reimbursement]] beyond what has not been paid by the GSS child care assistance. There are no statistics available on the previous years' reimbursements. 
+
+On the whole, child care is expensive for student families. Many graduate students, especially those pursing PhD, will be at an age when they get married and possibly have children. It is imperative for students to consider child care costs in detail since the expenses may not match the reimbursements.
+
+** Elementary schools
+Elementary education is provided by the Town of Amherst to all children residing in Amherst, MA. Kindergarten enrollment starts by March-April for the next academic year starting at the end of August for kids who would have turned 5 years old on or before September 1. Since education is public schools is effectively free (and funded by the town), elementary education will not be an expenditure for the student families. 
+
+* Summary
+1. Pursing graduate studies is expected to be more expensive for students with families when compared to students without families.
+2. There are various ways of trying to save. There are some resources provided to subsidize childcare expenses.
+3. The time available for students with families may also be somewhat reduced due to additional domestic responsibilities. Student families with children may be even more stressed on time. Nevertheless, numerous students pursue, and successfully complete their graduate studies despite all obstacles.
+4. The UMass Amherst campus and the Town of Amherst is a wonderful place to study and do research.

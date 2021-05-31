@@ -1,0 +1,60 @@
+#+title: Value Iteration Algorithm for a Discrete Markov Decision Process
+#+DATE: 2019-03-23
+
+The Value Iteration algorithm also known as the Backward Induction algorithm is one of the simplest dynamic programming algorithm for determining the best policy for a markov decision process. 
+# more
+* Finite Horizon
+Consider a Discrete Time Markov Decision Process with a finite horizon with deterministic policy.
+We can characterize this Markov Decision Process with as \( (T, S, A, P, R) \) where 
+\begin{align*}
+t &= 1 \ldots T \text{ represents the epochs}\\
+A &\text{ is the set of Actions such that } a_t \in A \\
+S &\text{ is the set of States such that } s_t \in S\\
+P &\text{ is the Probability Transition Matrix such that } p(s_{t+1} \mid s_t, a_t) = P_{(s_t, a_t),s_{t+1}}\\
+R &\text{ is the Reward Matrix such that reward } r(s_t, a_t) = R_{s_t,a_t}
+\end{align*}
+
+Additional notations are:
+
+1. The policy \( a_t = \pi(s_t) \) is deterministic for each state \( s_t \) and the set of all possible policies is \( \Pi \). \( \pi \in \Pi \). We denote \( \pi \) as the vector indexed by the state \( s_t \).
+2. The discount factor is \( 0 \le \gamma \le 1 \).
+3. The utility defined here as *expected total discounted reward* of a policy \( \pi \) is \[u_t^{\pi} (s_t) = r(s_t, a_t) +  \gamma \sum_{s_{t+1} \in S} p(s_{t+1} \mid s_t, a_t) u_{t+1}^{\pi} (s_{t+1}) \]
+4. The best (maximum) utility can be given by \[ u_t^*(s_t) = \max_{\pi \in \Pi} u_t^{\pi}(s_t) \]
+5. The residual reward (scrap value) at the end of the horizon \( (T) \) is \( r(s_T) \)
+
+The Bellman equations give us 
+\[ u_t^*(s_t) = \max_{a_t \in A} \Big[ r(s_t, a_t) + \gamma \sum_{s_{t+1} \in S} p(s_{t+1} \mid s_t, a_t) u_{t+1}^{*} (s_{t+1}) \Big] \]
+
+The Bellman principle of optimality is a very simple yet powerful statement: 
+
+#+BEGIN_QUOTE
+Principle of Optimality:
+An optimal policy has the property that whatever the initial state and initial decisions are, the remaining decisions must constitute an optimal policy with regard to the state resulting from the first decisions.
+#+END_QUOTE
+
+In other words, the Bellman optimality equation tells us that to get the maximum total discounted reward, we must recursively choose an action at each step that provides the maximum of the sum of reward due to action at this time epoch and the discounted maximum of the total discounted reward for the next time epoch. 
+
+We can solve this by using the *Value Iteration Algorithm* which is also known as the *Backward Induction Algorithm* 
+
+Algorithm is as follows:
+
+Step 0. Set \( t = T,\quad u_T^{*}(s_T) = r(s_T) \quad \forall s_T \in S \).
+
+Step 1. for \( t = T-1 \ldots 0 \) do:
+
+Step 1.1 Calculate \( u_t^{*}(s_t) \) as \[ u_t^{*}(s_t) = \max_{a_t \in A} \Big[ r(s_t, a_t) + \gamma \sum_{s_{t+1} \in S} p(s_{t+1} \mid s_t, a_t) u_{t+1}^{*} (s_{t+1}) \Big] \quad \forall s_t \]
+
+Step 1.2 Determine the best policy \( \pi(s_t) \) using \[ \pi^{*}(s_t) = \text{arg} \max_{a_t \in A} \Big[ r(s_t, a_t) + \gamma \sum_{s_{t+1} \in S} p(s_{t+1} \mid s_t, a_t) u_{t+1}^{*} (s_{t+1}) \Big] \quad \forall s_t \]
+
+
+
+* Infinite Horizon:
+The basic premise for an infinite horizon markov decision process with the utility as the expected total discounted is the convergence of the geometric series.
+
+\[ \sum_{n=0  }^{\infty} x^n = \frac {1}{1 - x} \quad \forall \mathopen| x \mathclose| < 1 \]
+
+So for a discount factor of \(0 \le \gamma < 1\) and any reward \(r < \infty \), we will get
+
+\[ \sum_{n=0}^{\infty} \gamma^n r = \frac{1}{1-\gamma} r < \infty\].
+
+The use of the discount factor will converge the total expected reward. As we deal with computing technology with limited precision, we will eventually see that the improvement in utility falls below the precision that the computer can support. This can become a stopping criteria or we can choose an the desired precision \( e \).

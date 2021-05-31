@@ -1,0 +1,685 @@
+#+TITLE: Doctoral Student Colloquium Notes
+#+DATE: 2019-10-20
+
+Notes from the Doctoral Colloquium at INFORMS Annual Meeting on Saturday 2019-Oct-19
+
+# more
+
+* Becoming a Great Teacher
+
+
+** Prof Susan E Martonosi 
+Harvey Mud College
+- creative pedagogy
+
+*** Why
+- certain threshold for tenure.
+- connecting with students.
+- why this profession -- generally because some mentor/ teacher / advisor inspired.
+- because this field is important.
+*** Tips
+- little things like grading on time, eliminating typos etc
+- inclusive pedagogy for equity to all (including underrepresented groups and first generation students).
+- fail and learn: 
+  - example, if a student answers wrong, find what is right in that answer and build on that.
+  - make different ways of learning for experimenting the best style.
+- include students in process of building the teaching method
+- anyone can be better
+  - minute paper: end of class request for short written feedback.
+  - watch yourself (recorded video?) teaching.
+  - take teaching improvement help including informs resources.
+- Take the long view, get feedback right now and improve yourself now (while in grad school), once in tenure track your focus will be on research and your teaching may get less priority.
+- Give flexibility to students (as a cumulative flexibility). example a total of 72 hours of delay acceptable over all the deadlines. 
+*** Resources
+- *Small Teaching*, by James Lang
+- *A Self-Directed Guide to Designing Courses for Significant Learning*, by L. Dee Fink
+- *Learning Assessment Techniques: A Handbook for College Faculty*, by Elizabeth F. Barkley, and Claire H. Major. 
+- *Transparent Assignment Design literature* by Mary-Ann Winkelmes and others
+
+** Prof Laura Albert 
+
+https://punkrockor.com/ 
+
+*** Takes 5-10 years to be a great teacher.
+*** Many ways to be effective instructor.
+*** TODO Ask prof about the slide `25 things successful teachers do differently.'
+*** Teaching evaluations are overrated.
+- evaluations are not strongly correlated with quality of learning or learning.
+- evaluations are affected by things outside your control (gender, race)
+*** Manage expectations 
+- set up expectations on 1st day and in syllabus.
+- let them know it is a hard class (and can be done with guidance).
+- warn if something hard is coming up. Don't make sudden turns during the semester.
+- first few minutes of each class remind what we did last time, goal of today's class and for the semester.
+- Remind students of how far they have come
+- grading rubrics before presentations or project reports are due to get transparency. 
+*** Get stories. in the class.
+*** Be a coach to students.
+- in class examples help where students are getting stuck.
+- we get to know students
+- helps inclusive learning.
+- activities mimic exam questions so they can prepare exam.
+*** Best practices
+- Wieman & Gilbert 2014 paper
+- Make it stick
+*** What not to do
+- course blog with student comments in first year w
+- elaborate semester long project done collaboratively with students
+- have students develop / present material
+*** What you will feel like
+- get defensive in class when someone is rude.
+- get relaxed in class
+- not feel like a fraud in class
+- be comfy in class
+- answer students questions properly. 
+*** Time mgmt tricks
+- no tricks exist.
+- do less or do faster
+- return all exams in a week
+- save teaching ideas for next time
+- use calendar
+- handle emails
+- meet deadlines.
+*** Set deadlines and keep task list short.
+
+** Prof Heffrey D Camm 
+Associate Dean of Business Analytics, Wake Forest University School of Business.
+
+Walk around class to help connect with students. 
+
+*** Know your audience
+- Undergraduate
+- Masters
+- Doctorate 
+
+*** Approach
+- Methodology (quickly)
+- Numerical Example
+- Software
+- Real Example (homework / project  based on real life problem with data gathered)
+*** Don't do this:
+- don't be disorganized.
+- don't take more than a week to grade assignments / exams.
+- don't require: Show the math and then say `you don't need to worry about the math'.
+- don't pretend to know, instead say `I'm not sure -- I'll get back to you', and then get back to the students.
+- don't require exam question 2, 3, 4, 5 dependent on question 1.
+- don't say `That's a stupid question'.
+- don't let stupid questions dominate the class.
+*** Emulate your best teachers
+- organized
+- fair
+- clear expectations
+- challenging
+- clear explanations
+- cared about students learning
+- passionate (makes up for your shortcomings).
+- relevant (get the real world in your class).
+- Sense of humor. 
+
+* OR in Research Labs
+
+** Stefan Wild
+Computational Mathematician 
+Deputy director
+Math & something....
+Argonne National Laboratory
+US DOE National Lab Run by University of Chicago
+Has a tenure like organization.
+OR in many places
+Decision & Info Sciences Div
+Energy Systmes Division
+*Math & Computer Division* They have 20 postdocs and 35 full-time staff. 50% of postdocs did internship / summer stay.
+1:1:1 postdoc destinations (national lab: academia : industry)
+Does not require US residency / security clearance etc. 
+Jan 15 deadlines for applying. 
+Argonne National Labs has supercomputers, does edge computing (sensor level computing). 
+Most people doing internships in Argonne, get postdoc there and some get absorbed as staff. 
+Showed slides of lots of people from India (has people who had undergraduate from mumbai university also)
+
+** C Coffrin
+Las Alamos National Labs
+
+- mentions declarative programming: user simply states the problem and the computer solves it.
+- mathematical programming is a special case of declarative programming. 
+- NICTA (as a post-doc), did summer internship in Los Alamos.
+
+*** Las Alamos National Labs
+- Great Salary, Great Team, Entrepreneurial Environment, Job Security, Rural Location. After one year probation, you get tenure which is different from Argonne National Lab.
+
+*** Science at a National Laboratory
+- less `basic research', more of application-driven science. yet 20% side projects are on basic / fundamental science.
+- 3 key science roles
+  + chard money scientist (25% approx) guaranteed funding, and multiple conditions (like publishing not permitted).
+  + Soft money scientist (50% approx) research focus and work is not guaranteed for most then 3 years. you need to write grants for new research.
+  + Science Management (25% approx) -- really about managing science and progression direction. 
+- Highly interdisciplinary environment: physics, chemistry, biology, computer science, engineering, etc
+- Great scientific facilities super computers quantum computers, particle accelerators etc.
+- Travel, computers, other trivial things are taken care of 
+*** TODO Disadvantages
+*Can these paperwork / bureaucracy be a burden considering my way of working?*
+- lot of paperwork, bureaucracy
+  + meticulous tracking of costs
+  + training of mundane tasks and compliance regulations
+  + lots of office politics
+- Endless Money Cycle.
+  + *grant applications*
+  + *progress reports (monthly, quarterly, annual)*
+  + if they need reports and budgets regularly, then you build that effort and budget in your proposal grants.
+- Milestone Driven
+  + like contractual since your progress is to be shown (like papers submitted)
+- Aging Infrastructure
+  + Building built in 60s,
+  + Working out of trailers / temporary shelters that are used permanent shelters. 
+
+** M Poloczek 
+Uber AI
+[[mailto:poloczek@uber.com][poloczek@uber.com]]
+
+PhD in Theoretical Computer Science Goethe University Frankfurt am Main Germany 2013
+Postdoc Cornell 2014 -- 2017 (made transition to OR)
+Asst Prof at University of Arizona in Tucson 2017 -- 2019
+Lead of the Bayesian optimization team at Uber AI 2018
+*** AI at heart of Uber
+- Modeling of ETA, traffic, events, copmlex city dynamics,
+- predicting driver supply
+- Natural language customer services / conversational systems.
+- fraud detection, security applications,
+- sensor intelligence, & location. guessing what data has not come when GPS doesn't work.
+*** Optimization under uncertainty at scale. 
+- real time decisions, countless,
+- uber does probabilistic models in gyptorch and pyro for predicting ETA,costs, forecasting, etc.
+*** Speaker's work at Uber AI
+- basic research and applied machine learning projects at Uber. 
+- sees difference between academia and Uber AI.
+  + Textbook problems have challenging formulations, partner teams are not interested in theoretical properties / optimality.
+  + Expectations differ AI goal are general platforms for classes of problems, partners ask for tailored solution.
+  + Lots of resources (unlimited computing, short timespan between idea and realization. no grant writing though internal reviews for project proposals) 
+*** Uber has Internships, and will have postdoc positions later.
+
+* Academic Career Paths in OR.
+** Cole Smith
+Dean at Syracuse University
+- R1 universities need publications as a base / foundation for tenure-track positions. Postdoc may be after you have publications. 
+
+*** What do provost, deans etc mean?
+- These are career paths that come in academia. 
+- Academic administration is one of the service. 
+- Be part of services that are available to help you in your career path and that means something to you.
+
+** David Alderson
+Naval Postgraduate School
+
+- you may not know or may not figure out what you want to do when you are in graduate school, so try things.
+- tenure track faculty position can be looked as someone running as a business as an entrepreneur, with freedom and autonomy.
+- find willing senior mentors.
+
+** Michael Gorman
+University of Dayton (private institute)
+Editor-in-chief of Interfaces.
+- once you get administrative positions, they are largely one-way career paths and don't provide adequate time for research and teaching. Additionally skills needed in administration are much different, than skills needed in research and teaching.
+- membership, advisory board, etc opportunities are available in many organizations and businesses. 
+
+* Industry-Related Career Paths in OR/ JFIG
+** Behnam Behadani
+Sr Research Scientist, Amazon
+
+*** Typical Career Path
+- Research Scientist (I, II)
+Then two tracks (more independence than research scientist, identify problems to solve, etc)
+- Individual Contributor Track 
+  + Sr Research Scientist
+  + Principal Research Scientist
+  + Sr Principal Research Scientist
+- Manager Track (make new team, get business opportunities, etc)
+  + Manager 
+  + Sr manager
+  + Director
+*** Industries  
+- Airlines (Many have large OR teams): 
+- Transportation & Logistics,
+- Retail e-Commerce,
+- Hospitality (cruise-lines, hotels etc)
+- ``Marketplace'' platforms (giant matching problems)
+- ... some more
+*** Success Criteria
+- Impact (you don't worry about grants, you worry about your impact on the org)
+- Initiative,
+- Ability to create consensus
+- Thought Leadership
+- Science Depth
+- Mentorship to junior scientists.
+*** Secrets to success
+- Ownership
+- Being Practical
+- Willingness to learn
+- Networking
+*** Related Career Choices
+- Data Scientist
+- Applied/ ML Scientist
+** Peter Frazier, 
+Associate Professor Cornell University, 
+Part-time Data Scientist (Principal Research Scientist), Uber.
+*** Academia vs Industry
+- waiting time for impact differs a lot.
+- scholarship differs
+- money and location -- large cities have more opportunities in industry than in academia.
+*** How do you balance academic job and industry job
+- take advantage of time zone difference between Pacific Time and Eastern Time.
+- working more hours, and juggles (`struggles' if I would be in that place; he juggles since he's still doing it and have become expert at it.)
+- mental distinction between both things.
+- negotiation to intellectual property agreement with the university.
+- *speaker is willing to share such intellectual property agreement with us* if we need it in future.
+- don't do this while you are still on tenure track. do this after you have tenure. 
+** Zizhu Wang
+Co-founder & CTO, Cardinal Operations (China). 
+Associate Prof University of Minnesota and one university in china)
+
+Cardinal Operations provides consulting and software services.
+*** How do you balance academic job and industry job
+- Highly difficult but still enjoyable. 
+* Building a Funded Research Program
+** Georgia-Ann Klutke
+
+Program Director, Operations Engineering
+Civil, Mechanical and Manufacturing Innovation Division (CMMI)
+Engineering Directorate (ENG)
+National Science Foundation
+There are many different agencies that can provide funding. NSF is just one of them.
+
+
+*** Why NSF grants?
+- you get like a part-time funding (like for the summer salary).
+- to get funds for supporting students.
+
+*** Other facts
+NSF annual budget $ 7.5 billion.
+Looks at all math and sciences.
+Looks at basic research (not applied research)
+
+- Core strategies
+  + Integrating research and education
+  + Allow for diversity
+*** How?
+- Receive proposals, and award grants
+- external reviewers provide advice. 
+- Grants are approved by the program director after advice.
+- You apply to specific programs, so know your home for the research proposal. 
+- no more windows for application, you can submit anytime now. 
+- NSF has core programs (unsolicited proposals) and special initiatives (solicited) 
+Currently there are 10 big ideas and Career Program as Solicited Proposal.
+*** Find the `right home' for your proposal.
+- review program descriptions, abstracts of recent awards from the program.
+- Share 1-2 page summary with the program director.
+- Program descriptions are not aligned with academic departments. Program descriptions are intended to be broad but not all encompassing.
+*** Other programs in NSF for INFORMS Researchers
+- Within CMMI: OE, CIS, HDBE, AM, EDSE
+- Within ENG: Energy, Power, Control and Networks
+- In SBE Decision, Risk and Management Science
+- In MPS: Applied Mathematics, Computational Mathematics
+- In CISE: Algorithmic Foundations, Robust Intelligence.
+*** Faculty Early Career Development Program (CAREER)
+- Started in 2017. Current 3 year cycle ending in FY20.
+- There would be a new cycle with changes starting from FY21.
+- For juniors faculty members.
+- not the same as research proposal.
+- to provide stable support at sufficient level and duration to enable awardees to develop careers as outstanding researchers and educators who effectively integrate teaching, learning, and discovery.
+- provides 5 years of support ($100,000 per year).
+- Eligibility: You may start this after 1-2 years after starting job.
+  + Doctoral degree as of submission date (July)
+  + Employed in a tenure-track as asst prof as of October 1 following submissions.
+  + Maximum 3 chances for submission.
+  + Maximum 1 CAREER award.
+  + Dept head vouches for your eligibility.
+*** Points to convey
+- integrated research and education plan as well as a plan for assessing the plan.
+- ... few more comments that I missed.
+*** NSF Review Process. 
+- review panel reviews, conflict areas removed.
+- criteria -- intellectual merit, broader impacts, and for Career, how well are you integrating research and teaching.
+*** Outcomes
+- verbatim (unattributed) individual written comments. 
+  
+** Siqian Shen
+Associate Prof at University of Michigan
+
+*** Grant sources
+- NSF (Programs related to your research)
+- DoD: AFOSR, ONR, DARPA, ARL....
+  + Signup for announcement letters
+  + emails from university's grant office
+  + contact program managers, attend `proposal day'
+  + follow their twitter
+- DoE, DoT, and other federal agencies
+  + Find corresponding offices,  and talk to office directors,
+  + Join large proposal teams and learn from being a team member
+  + Write proposals to local centers who are funded by DoE / DoT / DoD.
+- Industry
+- Internal: emails from grant offices from university, sign up affiliations with related institutes and centers who may have proposal calls.
+- Foundations: Use university to connect to different foundations
+- Early CAREER opportunities:
+  + NSF: mid-late July
+  + DoD: varies among diff agencies. Watch for release of `Young Investigate Proposal' call or `Young faculty award' (DARPA). Look at their twitter for announcements. 
+  + DoE: Early CAREER (need a 2-page pre-proposal before submitting full).
+
+*** TODO Read about requirements of these.
+
+*** Competitive proposals
+- strong and innovative fundamental research and science.
+- strong connection with practice, emerging applications
+- clear writing (not fancy) and strong logic.
+- The `right' amount of math, motivation, preliminary results, and everything. 
+- Tailored for specific funding agencies; different focus of writing.
+- Understanding the needs from sponsors - talk to PM / stakeholders
+- Realistic tasks, plans, budget
+- Appropriately use examples
+
+
+*** How to write
+- ask for examples,
+- participate in proposal writing workshops
+- read abstracts from `who have awarded' list
+- practice
+- suggestions from people
+- Ask for examples of funded proposals and compare
+- join interdisciplinary teams, learn from colleagues, collaborators.
+- For `Fresh ideas' write from scratch than copy-paste from existing work (even if you have several papers on the topic).
+- Proof reading.
+* Working with the industry
+** Jianjun Shi
+Georgia Institute of Technology
+*** How to find a good research topic? (haha)
+- identify *real* problems in industry
+  + understand
+  + acquire sufficient knowledge in problem domain
+  + communicate effectively with domain expert(s)
+- Create innovative formulations
+  + read literature
+  + build up required analytical skills
+  + identify gaps and conduct an in-depth study
+- Target a broad and long-lasting impact problem. 
+- Focus on new methodology (vs method) development
+- At least one of 3  below
+  + New applications
+  + New tools
+  + New methodology / algorithm
+- Ask top 5 issues in the mind of a CEO / President / CTO
+  + Quality, Warranty, Profit, Productivity
+- Identify one or two problems that fits your expertise
+- Study the current industrial practice and literature
+- Develop strategy that addresses the problem effectively (start with simple solutions)
+- If project is unpaid, then the industry will not care for it. If it paid for then they will be responsible for supporting you for stuff like data.
+*** Two deliverable for 2 bosses
+- To Industry: Problem Solving with Simple Effective Solutions (Not optimal but rather robust)
+- To academia: New Methodology Development and Research Papers / Proposal
+*** Long term industrial partners
+- Top Down 
+  + Work with leading company in that industry
+  + Identify key issues, faced by industrial sectors
+  + They can get participation from their top-tier suppliers
+- Bottom-up
+  + Work with small companies, suppliers,
+  + 
+*** Other funding opportunities
+- SBIR Proposals (small business research) . Federal grants encourage small businesses to work with researchers on new resarch. Grants come in phases.
+- NSF GOALI Proposal (similar to NSF grant proposal), yet flexible and can get support from directors who can collaborate with other programs for getting grants. 
+- NSF Center Proposal (IUCRC, ERC)
+- DoE, DoD, and other Governmental Agencies
+- BAA.
+
+** Michael Gorman
+University of Dayton
+
+- Solve the problem in the context; don't go with a methodology that you have and search for a problem that fits in.
+- Industry people are on many advisory boards of colleges, departments etc. Getting them is most helpful.
+- Former students are a source for industry contacts.
+- INFORMS
+- Junior faculty should be ready with stories to talk to Industry. The language used should be easy to understand than academic language.
+
+** Peter Fraizer
+Cornell University, Uber
+
+- Don't walk around with your hammer.
+- From outside large cos may look like a single entities, but such large cos have different people trying to solve individual problems. Solve that person's problem(s) since it will be appreciated better and will accepted / implemented.
+- Academics get rewarded according to their new methodologies. Industries want problem solved even with existing methods.
+- When you go to industry, you should specify that you want to publish. Peter does not work on projects where industry does not want to publish.
+- Current doctoral students can network to get industry contacts.
+- People with whom you have gone to school and are currently working are source of industry contact.
+- Depending on research area, get student to jointly work with some industry based research problem.
+- Do one thing in advance from what you are doing. Example, you should write grants now like Asst Profs do. (Be ahead of the game).
+What can go wrong when an academician implements their work in the company?
+- Consensus building not academic's agenda, one person as your point of contact is not going to help directly.
+- What does success for your project look like? How are solutions evaluated in the organization?
+
+* Becoming a Prolific Scholarship
+** David Simchi-Levi
+*** Research portfolio
+- Choosing Problems, Taking Risks
+- Managing Research projects
+- Replicability of Results
+- Legal Ethical Challenges
+- Where to submit?
+*** Selecting & Managing Research Projects
+- Focus on real-world problems: Understand business environment
+- Devote and protect research time: Write from first day of the research project. As faculty, time will be more scarce for research, everyone would want your time.
+- Develop a `minimum viable product': quickly develop at a minimum a product which can get you feedback before finalizing and submitting the paper.
+- Get it out of the door: Balance between improving and finalizing.
+- Learn to Listen and respond to each criticism
+
+*** Technology Trends changing profession
+- Digitization, lots of company data and additionally data external to the organization.
+- Analytics: Descriptive, Diagnostic, Predictive, Prescriptive. 
+- Automation
+
+*** Replicability of Results
+- Objective assure, the availability of the material necessary to replicate the research published. 
+- Issues:   Proprietary data, Sensitive data,
+
+*** Legal Ethical Issues
+ - Papers that apply scraped data from websites that ban such practice.
+ - Papers that use fake accounts to generate data, or get unauthorized data. 
+ - Careful not to use data obtained by means that materially harms individual, business, public sector, or societal interests. 
+
+*** Where to submit
+- Identify the journals that publish in related areas:
+  + look at your reference list
+  + consider where senior people in your area published their work
+  + consider where top papers in your area have been published.
+- Identify journals' credentials: impact factors, journal ranking, citation reports
+- Consider review cycle time
+- Consider submission format  
+
+*** Refereeing 
+- All papers have problems, don't just criticize, add improvements on the major things that need changes and not the minor things.
+- What major revision implies?
+- When you ask for changes, see it from the cost of change -- what is the cost to the author.
+- Don't force your ideas on the authors.
+- Transparency as a referee.
+
+** C Yano
+*** Writing paper
+- Don't plagiarize. 
+- Introduction should have motivation not reference to what other authors have stated.
+- ....... Missed this part.
+- Literature review should be comprehensive (thorough and up-to-date) and clarify the positioning of the research in the context of literature.
+- Exposition must be
+  + easy to read for a native speakers,
+  + well organized
+  + free of grammar
+  + precise
+  + concise
+- Put yourself in shoes of the reader
+- Ask a good writer to look at the paper.
+*** Revising the paper
+- Don't get upset.
+- for a minor revision, make checklist before you rework
+- for an extensive revision,.... (missed).
+- Read the reviews carefully, understand concerns, read between the lines,
+- Determine big changes, don't start changes.
+- Draft response to review comments to help guide the revision efforts, then make a plan and start review.
+- While responding to review,
+  + Thank the review team
+  + Summarize major changes in bullets or short paragraphs
+  + Respond to reach review team member's comments, referring to change
+- Ask editor for clarifications or when resolution of conflicting comments,
+- If extensive changes, then let editor know the effort??? Missed this one again.
+- You are the owner of the paper, there is will review comments that may not match with what you intend to do, respond with your comments on why you think your views should remain than go and changes.
+ 
+** Barry Nelson
+
+*** Funding 
+- Surgical vs shotgun
+  + Our field regards well-written carefully researched proposals with a compelling story. not many proposals
+  + story important not math
+- Work with experienced PIs.
+- Short term industry projects can lead to long-term relationships, internships for students, as well as generating research directions
+  + Don't Forget INFORMS Journal on Applied Analytics (formerly Interfaces)
+
+* Job Search
+
+** Jing Dong
+Assistant Professor (2017--)
+Decision, Risk and Operations Division 
+Columbia University
+
+Did phd from columbia, 2014. IEOR dept.
+Was Assistant prof in Northwestern University before joining Columbia as professor.
+
+*** Difference between Engg, Business schools
+- Research :: Wide spectrum of appreciation in engg colleges vs business schools. You can work on theoretical work as also on applied journals. Biz colleges have short list of journals where they appreciate work.
+- Teaching :: Engg students take a very predictable route before they that course. In Biz school, the classroom is very diverse and may not have the same background. 
+- Graduate Students :: Engg students have more grad students, generally phd students are not there in biz school. Grants are needed in Engg schools, not in Biz schools. In Biz schools, phd students have funding as the school's fellowships, they can work with multiple professors, and will not be only your students.
+
+*** Job Talk
+- Other work / related work where to put, everyone gives different opinion.
+- What is easy, How is easy? Why is important -- Can you put your work in correct place as compared to what others have. 
+- It is not your advisor's work but should reflect your passion and ideas.
+
+*** Interview
+- What you have accomplished?
+- What you plan to do? -- Most people do not know beyond the first step after that.
+- How do you fit in the department. What will you be bringing to the table.
+
+** Phebe Vayanos
+Associate Director, Center for AI in Society,
+Asst Prof ISE and CS
+phebe.vayanos@usc.edu
+University of Southern California
+
+MIT Sloan Postdoc
+Imperial College London PhD in OR (Computer science dept)
+
+*** Timeline:
+Job market of Fall 2021: August 2022 start of job
+- Prepare applications in Sept 2021
+- Start applications in October 2021
+  + Some interviews in INFORMS possible
+- On campus interviews from December (Business Schools before Engineering)
+- Offers by phone (reply expected in 2 weeks or so.).
+
+*** Meet people 
+- Learn what they do, ask questions, ask about the department, what the place is like etc.
+
+*** Where?  
+- Informs open forum https://connect..informs.org/
+- Informs communities
+
+*** Application material 
+- CV :: Check from people who got recent jobs. 
+- Research statement :: Aims, Philosophies, Research contributions, current resarch, agenda, *Research vision*, Use figures, Make it personal (why you care about it). Get loads of feedback early. 
+- Teaching statement :: Fluid structure, start of personal anecdote, objectives, Tenets, Translating tenets to action (add quotes fro feedback that you got as TA, ask students to give feedback about you.), Teaching Agenda, Use Figures.
+- Diversity Statement  :: Optional in many universities but keep it ready. 
+- Cover letter :: Who are you, what is your field? why you want to work in that specific department / university -- centers, funding support, research approach, potential collaborators (within / outside dept/school), student quality, diversity, etc
+- References :: 3 referees, Ideally people you have collaborated with or that know your work well. Ask for letters promptly, Give material to talk about. 
+- Website :: Include INFORms talk information, build content & update as you go, Include photos, videos, figures of work, links to papers, presentations, teaching material, updated CV, 
+- Job Market paper (3 of your most significant work).
+
+*** Where to apply?
+- Everywhere
+- IN all places, BUT be flexible,
+- Don't apply to all places that you will not go.
+
+
+*** Job Talk
+50 minutes
+focus on 1 paper,
+Discuss research contributions, research agenda, research vision,
+Needs to be very very polished
+Practice
+
+*** Interview
+- know people,
+- Polish you talk
+- Prepare list of questions
+  + Funding support,WiSE, Fellowship,s Nof Grad students in program
+- See how department supports junior faculty
+- Enjoy your visit, 
+- Be personable: people are trying to see if you would be a good colleague.
+
+*** After interview
+- Send personal thank you notes.
+
+
+** Brian Denton
+University of Michigan
+
+- Application packet has to be perfect -- typos, spelling mistakes, incorrect stuff, not written to broad audience are rejection material.
+- Pre-interviews are common: Say like some coffee during Informs.
+- Video interviews - no background noise, important background. etc. thank everyone on the call.
+- Pre-interviews - no negotiation.
+- Onsite interviews - confident with humility - not overconfident. Call People by first name. Behave as if you are already a junior faculty and a colleague.
+- Prepare for `Tell us something about yourself' and `what is your background', `What do you want your CV to look like in 5 years', 
+- Agenda during onsite interview -- you will have multiple meetings with different people. Understand their background.
+- Understand not just that department, also the various centers, and interdisciplinary areas. 
+- Practice job talk 40-40-20 rules 40% of talk should be understandable by anyone. 40% by people in your discipline, 20% by experts or deep in your area.
+- Keep consistent answers - the faculty discuss with each other.
+- Ask questions, don't negotiate.
+- Once they have made an offer, that's when tables turn and you start evaluating the offer and possible negotiation.
+- Ask people for help -- advisors, dean, other faculty in your university
+
+*** Red Flags,
+- During dinner, if no one is talking to each other, it looks like department has problems.
+- If they need a quick answer -- like one or two days, then if the university is not willing to wait, looks like they are not interested.
+- Verbal offers are not real offers, get written offers. 
+ 
+*** TODO Ask about how family support.
+
+*** Highly Specific Job requirements
+- Apply anyway. 
+
+** Behnam Behdani
+Sr Resarch Scientist Amazon
+
+- Talk to a friend, who works in the industry
+- Figure out what gets you excited.
+- LinkedIn, Updated CV Resume.
+- Don't answer `what is your expected salary' but know your worth.
+- Desired location should match.
+
+*** Where to look
+- Your friend colleague network. (job referrals have bonuses).
+- job boards
+- Company website
+- Training & placement services
+- INFORMS
+
+*** Interview Process
+- Phone screening
+- On-site:
+  + Behavioral Questions. :: Know your personal CV, Know companies core values. (Amazon has 14 core values) 
+  + Technical Competencies. :: OR, Machine Learning, etc.
+  + Problem Solving. :: OK to think out loud. 
+  + Coding. :: Things like Python, Java, etc.
+
+*** During Interview  
+- ask clarification questions
+- state assumptions
+- ask for hints
+- think aloud
+- check if you have answered the interview
+- stay focused even with bad interview
+
+*** After interview
+- Send thank you note (Speaker finds it annoying).
+- Follow up with your recruiter within a week. Ask for Feedback
+- If offered, be ready to negotiate. 
+#+INCLUDE: "~/conferences/informs_annual_2019/doctoral colloquium/notes.org"

@@ -1,0 +1,31 @@
+#+title: Counting words in LaTeX
+#+date: 2019-12-31
+#+tags: TeX
+
+Counting words typed in \(\rm\LaTeX\) is difficult using standard text editors because macros, commands, and the math syntax can interfere in the word count. 
+
+TeX Live provides [[https://www.ctan.org/pkg/texcount][=texcount=]] to help count the number of words accurately.
+
+# more
+
+#+BEGIN_SRC bash :dir ~/gitprojects/patientschedules/writeup/article-simulation/ :exports both :results output
+texcount -total -inc article.tex
+#+END_SRC
+
+#+RESULTS:
+#+begin_example
+Total
+Words in text: 2274
+Words in headers: 27
+Words outside text (captions, etc.): 73
+Number of headers: 10
+Number of floats/tables/figures: 6
+Number of math inlines: 55
+Number of math displayed: 1
+Files: 5
+
+#+end_example
+
+The =-inc= flat ensures that all the =include=-ed \(\rm\TeX\) files are also considered in the calculations. The  =-total= flag shows only the totals for the entire document instead of providing details for individual files.
+
+We can maintain a daily record of the =texcount= to determine the progress of a manuscript by measuring the cumulative words written. 
