@@ -1,6 +1,5 @@
 #+title: Graduate students with families in UMass Amherst
 #+date: 2018-05-09
-#+Lastmod: 2018-05-09
 
 My understanding on the finances related to a graduate student with a family.
 # more
@@ -18,10 +17,15 @@ The entire Pioneer Valley is beautiful and takes pride in being a vibrant commun
 UMass Amherst provides opportunities for graduate studies - masters and doctoral programs. In this article, I intend to brief you about the life of graduate students with families in UMass Amherst.
 
 * Living Expenses, Family Housing
-Generally speaking, the Town of Amherst if relatively expensive as compared the the neighbouring towns. There are a few prominent rental apartment complexes closer the the university campus or easily accessible using public bus service. Puffton Village, Crestview Apartments, Presidential Apartments, The Boulders, Aspen Chase, Colonial Village, Brandywine Apartments, Townehouse of Amherst are some of the apartments where some of my colleauges have resided during their stay in Amherst.
+Generally speaking, the Town of Amherst if relatively expensive as compared the the neighbouring towns. There are a few prominent rental apartment complexes closer to the university campus or easily accessible using public bus service. Puffton Village, Crestview Apartments, Presidential Apartments, The Boulders, Aspen Chase, Colonial Village, Brandywine Apartments, Townehouse of Amherst are some of the apartments where some of my colleauges have resided during their stay in Amherst.
 
 Utilities generally include Internet, Cable TV, Electricity, Water, Sewer.
 Hot water generally indicates that heating of water using gas is provided. Water itself is paid separately.
+
+*Note*: North Village UMass Family Housing is closed for redevelopment since Summer 2020. I hope to update his note as I get to know any changes.
++ [[https://www.gazettenet.com/UMass-Amherst-to-build-new-housing-tear-down-existing-complexes-28262511][UMass moves ahead on $200M project to replace 2 apartment complexes --- Daily Hampshire Gazette]]
++ [[https://www.amherstbulletin.com/The-street-we-all-lived-on-in-North-Amherst-34108822][Ode to North Village: The street we all lived on --- Amherst Bulletin]]
+
 
 | Apartments                         | Rent monthly (2 Bedroom) as on 2018-05-10 | Included                     | Not Included               |
 |                                    |                                       <r> |                              |                            |
@@ -62,7 +66,7 @@ Two popular grocery stores accessible by bus are Stop & Shop and Big Y. Below is
 |-------------------+---------+------------------------|
 
 ** Laundry
-Most self-service laundry facilities are around $2.50 to $4.00 for wash and similar for dry. Each self-service load can be approx 10-12 lb (4.5 -- 5.5 kilograms) which equivalent for 2 weeks of clothes per person.
+Most self-service laundry facilities are around $2.50 to $4.00 for wash and similar for dry. Each self-service load can be approx 10-12 lb (4.5 -- 5.5 kilograms) which is equivalent for 2 weeks of clothes per person.
 
 ** Telecom & Internet
 Town of Amherst has provided a virtual monopoly to Comcast for Internet access and Cable TV. Minimum cost of Internet will be around $32. Unlike many countries, in USA, the advertised cost is not the final cost. The ISP will have additional charges as modem rental fee, service fee, conveinenc fee, and other ad-hoc charges which won't be clear until you ask and even get your first bill. Since there is no contract involved, the rates can change.

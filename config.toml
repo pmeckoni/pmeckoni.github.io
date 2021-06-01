@@ -1,4 +1,4 @@
-baseurl = "https://pmeckoni.github.io"
+baseurl = "https://pmeckoni.github.io/"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
 title = "Prashant Meckoni"
@@ -29,7 +29,8 @@ pygmentsCodefencesGuessSyntax = true
   socialShare = false
   delayDisqus = false #true
   showRelatedPosts = true
-   hideAuthor = true
+  hideAuthor = true
+  selfHosted = true #relies on selfhosted fonts, css, js than rely on google fonts, cloudfare CDN etc.
 #  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
 
 #[[Params.bigimg]]
