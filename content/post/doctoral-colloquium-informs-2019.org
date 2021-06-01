@@ -682,4 +682,4 @@ Sr Resarch Scientist Amazon
 - Send thank you note (Speaker finds it annoying).
 - Follow up with your recruiter within a week. Ask for Feedback
 - If offered, be ready to negotiate. 
-#+INCLUDE: "~/conferences/informs_annual_2019/doctoral colloquium/notes.org"
+

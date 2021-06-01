@@ -1,6 +1,6 @@
 #+title: Counting words in LaTeX
 #+date: 2019-12-31
-#+tags: TeX
+#+tags[]: TeX
 
 Counting words typed in \(\rm\LaTeX\) is difficult using standard text editors because macros, commands, and the math syntax can interfere in the word count. 
 

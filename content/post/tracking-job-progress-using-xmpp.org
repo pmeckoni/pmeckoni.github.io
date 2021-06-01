@@ -1,0 +1,119 @@
+#+TITLE: Tracking Computing Job Progress Using sendxmpp
+#+DATE: 2021-06-01T00:20:22-04:00
+#+PUBLISHDATE: 2021-06-01T00:20:22-04:00
+#+DRAFT: nil
+#+TAGS[]: computing
+#+DESCRIPTION: Short description
+
+Tracking the progress of scientific computing jobs using ~sendxmpp~ and XMPP is easy. This is extremely useful when running jobs remotely. 
+# more 
+
+I run most of my computing jobs on a "remote" server, which is basically my lab computer, while controlling it using my personal laptop.
+Earlier, I used to keep my ssh session active to keep track on the progress of the job.
+Then, after a few mishaps, I started using GNU Screen to allow the jobs to run without requiring the ssh session to be active.
+Still I had to continue to frequently check the progress of the job using ssh login.
+This was painful. I wanted a notification system that would let me know the progress, instead of me checking, periodically, on the progress.
+
+[[https://sendxmpp.hostname.sk/][sendxmpp]] came to my rescue.
+
+#+begin_quote
+sendxmpp is a perl-script to send xmpp (jabber), similar to what mail does for mail. 
+#+end_quote
+
+
+The package is extremely easy to install, configure and use.
+
+** XMPP account
+The first thing needed is a valid XMPP account. There are free servers available. You can also self-host a server, if you have lots of spare time.
+[[https://404.city/][404.city]] and [[http://a3.pm/][a3.pm]] may work. Your username will be in the form of *user@domain*.
+If you have Google Hangouts and have used Google Talk earlier, then your Hangouts account may receive xmpp messages.
+However, setup is a pain if you cannot have application specific passwords setup on your Google account.
+   
+** Set up xmpp client on your laptop, smartphone, or desktop
+
+Install and login to an xmpp client for your smartphone or your computer. If you don't know of any clients, use one of the following:
++ [[https://conversations.im/][Conversations.im]] is a good client for Android.
++ [[https://pidgin.im/][Pidgin]] is a good client for GNU/Linux and Windows..
++ [[https://beagle.im/][Beagle IM]] and [[https://adium.im/][Adium]] are good clients for macOS. 
+  You can use multiple clients at the same time. The server recognizes each client separately using the ~resource~ setting.
+  You can leave the =resource= setting blank, where the client will set it to its own default value, or you can set it yourself to something like =myclient= for finer control.
+  You can send messages to a specific client when you address your messages to a particular resource using *user@domain/myclient*, or to all clients using *user@domain*.
+
+** Installation on remote server
+This is an extremely mature software. The last release is 2014. XMPP is an extremely stable protocol. We do not need to install any server software. Only the ~sendxmpp~ software needs to be installed.
+
+On most debian based systems you can install using
+
+#+begin_src bash
+  sudo apt update
+  sudo apt install sendxmpp -y
+#+end_src
+   
+** Configuration
+Add configuration settings in the ~~/.sendxmpprc~ file:
+
+#+begin_example
+username: user
+jserver: server
+port: 5222
+password: mypass
+#+end_example
+
+** Test your script
+   
+On your remote server where you have installed ~sendxmpp~, you can now test the script.
+
+#+begin_src bash
+  echo "Hello. Message from host: `hostname`"  | sendxmpp user@domain
+#+end_src
+
+If your XMPP server uses TLS, then try:
+   
+#+begin_src bash
+  echo "Hello. Message from host: `hostname`"  | sendxmpp --tls user@domain
+#+end_src
+
+To send message to a specific client or resource, try:
+   
+#+begin_src bash
+  echo "Hello. Message from host: `hostname`"  | sendxmpp --tls user@domain/myclient
+#+end_src
+
+You will receive xmpp messages from your own account, which is equivalent to sending an email to yourself.
+You can use separate accounts --- one for sending xmpp messages from your script and other for receiving xmpp messages on your client.
+
+** Send progress messages from your script
+
+Once everything works, you can now set up your script to report the progress to you.
+Below is a sample of how to use it.
+
+#+begin_src bash
+  #!/usr/bash
+  echo "Starting script at `date` on `hostname`"  | sendxmpp --tls user@domain
+  ./run_first_part
+  echo "Completed first part at `date` on `hostname`"  | sendxmpp --tls user@domain
+  ./run_second_part
+  echo "Completed second part at `date` on `hostname`"  | sendxmpp --tls user@domain
+#+end_src
+
+** Alternatives
+~mail~ is an alternative to sending messages by email. I prefer ~sendxmpp~ over ~mail~ because:
+1. xmpp is supposed to be nearly instant,
+2. xmpp clients have notifications for new message arrivals,
+3. email still requires the client to poll the server to periodically check for new messages.
+
+You may prefer ~mail~ if you want to send long logs as attached files or if you want finer control on messages.
+
+** Conclusion
+This reduces frequently checking what is going on with the script. It also allows you to get results, error codes or any other information that you would like to get as your script progresses.
+This should be really useful for all researchers and programmers who run long computation jobs for things like simulations, machine learning and other kinds of scientific computing.
+
+Please be aware that the ~sendxmp~ does not directly provide end-to-end encryption. You can use GnuPG in your ~sendxmpp~ scripts along with OpenPGP supported xmpp clients to help you on it.
+Generally, progress notifications are not sensitive enough to warrant use of OpenPGP over xmpp, so you may not need it.
+
+   
+
+
+
+   
+   
