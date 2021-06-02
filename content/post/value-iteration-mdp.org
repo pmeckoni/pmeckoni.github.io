@@ -6,13 +6,14 @@ The Value Iteration algorithm also known as the Backward Induction algorithm is 
 * Finite Horizon
 Consider a Discrete Time Markov Decision Process with a finite horizon with deterministic policy.
 We can characterize this Markov Decision Process with as \( (T, S, A, P, R) \) where 
-\begin{align*}
+
+\begin{align}
 t &= 1 \ldots T \text{ represents the epochs}\\
 A &\text{ is the set of Actions such that } a_t \in A \\
 S &\text{ is the set of States such that } s_t \in S\\
 P &\text{ is the Probability Transition Matrix such that } p(s_{t+1} \mid s_t, a_t) = P_{(s_t, a_t),s_{t+1}}\\
 R &\text{ is the Reward Matrix such that reward } r(s_t, a_t) = R_{s_t,a_t}
-\end{align*}
+\end{align}
 
 Additional notations are:
 
