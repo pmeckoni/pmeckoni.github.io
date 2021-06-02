@@ -17,8 +17,8 @@ pygmentsCodefencesGuessSyntax = true
  # homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
   subtitle = "Personal webpage" #"Build a beautiful and simple website in minutes"
   mainSections = ["articles","post","posts"] #["post","posts"]
-  logo = "img/prashant_square.jpg" #"avatar-icon.png" # Expecting square dimensions
-  favicon = "img/favicon.ico"
+  logo = "/img/prashant_square.jpg" #"avatar-icon.png" # Expecting square dimensions
+  favicon = "/img/favicon.ico"
   dateFormat = "Jan 2, 2006"
   commit = false
   rss = true
@@ -30,7 +30,7 @@ pygmentsCodefencesGuessSyntax = true
   delayDisqus = false #true
   showRelatedPosts = true
   hideAuthor = true
-  selfHosted = true #relies on selfhosted fonts, css, js than rely on google fonts, cloudfare CDN etc.
+  selfHosted = false #relies on selfhosted fonts, css, js than rely on google fonts, cloudfare CDN etc.
 #  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
 
 #[[Params.bigimg]]

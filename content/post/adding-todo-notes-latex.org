@@ -3,7 +3,7 @@
 #+tags[]: TeX
 #+lastmod: 2019-12-31
 
-Many researchers and programmers have a tendency to add =todo= and =fixme= to their comments to mark stuff to be fixed. Such placeholders are available in \(\rm\LaTeX\) too. 
+Many researchers and programmers have a tendency to add =todo= and =fixme= to their comments to mark stuff to be fixed. Such placeholders are available in \(\LaTeX\)   too. 
 The easiest way is to use the [[https://www.ctan.org/pkg/todonotes][=todonotes=]] package.
 # more
 
@@ -20,22 +20,6 @@ Introduction to the article.
 
 \end{document}
 #+END_SRC
-
-#+RESULTS:
-#+BEGIN_EXPORT latex
-\documentclass[draft,10pt]{article}
-\usepackage[paperwidth=3in,paperheight=2in,margin=1cm,noheadfoot]{geometry}
-\usepackage{todonotes}
-\setuptodonotes{inline}
-\begin{document}
-
-\section{Introduction}
-\label{sec:introduction}
-\todo{This is a todo note}
-Introduction to the article.
-
-\end{document}
-#+END_EXPORT
 
 The todo-notes appear as below
 
