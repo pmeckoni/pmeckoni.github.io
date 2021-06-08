@@ -1,5 +1,6 @@
 #+title: Value Iteration Algorithm for a Discrete Markov Decision Process
 #+DATE: 2019-03-23
+#+mathjax: true
 
 The Value Iteration algorithm also known as the Backward Induction algorithm is one of the simplest dynamic programming algorithm for determining the best policy for a markov decision process. 
 # more

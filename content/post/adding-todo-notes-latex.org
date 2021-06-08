@@ -2,6 +2,7 @@
 #+date: 2019-12-31
 #+tags[]: TeX
 #+lastmod: 2019-12-31
+#+mathjax: true
 
 Many researchers and programmers have a tendency to add =todo= and =fixme= to their comments to mark stuff to be fixed. Such placeholders are available in \(\LaTeX\)   too. 
 The easiest way is to use the [[https://www.ctan.org/pkg/todonotes][=todonotes=]] package.

@@ -1,5 +1,6 @@
 #+title: Working Offline
 #+date: 2021-03-17
+#+mathjax: true
 
 The Internet is a great big distraction. Without going in to the details on how this has happened, I can share some strategies to counter this distraction, by turning it off while working.
 # more
