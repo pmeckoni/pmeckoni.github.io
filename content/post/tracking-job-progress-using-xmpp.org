@@ -29,8 +29,9 @@ For a naive user's understanding, XMPP is an instant messaging standard allowing
 * XMPP account
 The first thing needed is a valid XMPP account. There are free servers available. You can also self-host a server, if you have lots of spare time.
 [[https://404.city/][404.city]] and [[http://a3.pm/][a3.pm]] may work. Your username will be in the form of *user@domain*.
+
 If you have Google Hangouts and have used Google Talk earlier, then your Hangouts account may receive XMPP messages.
-However, setup is a pain if you cannot have application specific passwords setup on your Google account.
+However, setup is a pain if you cannot have application specific passwords setup on your Google account. Since Google Hangouts is being phased out, don't spend time on troubleshooting XMPP related errors.
    
 * Set up XMPP client on your laptop, smartphone, or desktop
 
@@ -38,20 +39,30 @@ Install and login to an XMPP client for your smartphone or your computer. If you
 + [[https://conversations.im/][Conversations.im]] is a good client for Android.
 + [[https://pidgin.im/][Pidgin]] is a good client for GNU/Linux and Windows..
 + [[https://beagle.im/][Beagle IM]] and [[https://adium.im/][Adium]] are good clients for macOS. 
-  You can use multiple clients at the same time. The server recognizes each client separately using the ~resource~ setting.
-  You can leave the =resource= setting blank, where the client will set it to its own default value, or you can set it yourself to something like =myclient= for finer control.
-  You can send messages to a specific client when you address your messages to a particular resource using *user@domain/myclient*, or to all clients using *user@domain*.
 
-* Installation on remote server
-This is an extremely mature software. The last release is 2014. XMPP is an extremely stable protocol. We do not need to install any server software. Only the ~sendxmpp~ software needs to be installed.
+You can use multiple clients at the same time for your account. So you are logged in for the same account from your smartphone and also from your computer. The server recognizes each client separately using the ~resource~ setting.
+You can leave the =resource= setting blank, where the client will set it to its own default value, or you can set it yourself to something like =myclient= for finer control.
+You can send messages to a specific client when you address your messages to a particular resource using *=user@domain/myclient=*, or to all clients using *=user@domain=*.
 
-On most debian based systems you can install using
+* Installation of =sendxmpp= on remote server
+=sendxmpp= is an extremely mature software. XMPP is an extremely stable protocol. We do not need to install any server software. Only the ~sendxmpp~ software needs to be installed.
+
+** apt based systems
+On most Debian based systems, like Ubuntu, Mint Linux etc you can install using
 
 #+begin_src bash
   sudo apt update
-  sudo apt install sendxmpp -y
+  sudo apt install sendxmpp --assume-yes
 #+end_src
-   
+
+** rpm based systems
+On most Redhat, Fedora, SUSE and OpenSUSE systems you can install using
+
+#+begin_src 
+  sudo dnf install sendxmpp --assumeyes
+#+end_src
+
+
 * Configuration
 You can Add configuration settings in the ~~/.sendxmpprc~ file for an account *user@domain* and password *mypass*.
 The standard default port on the XMPP server is 5222 and is supposed to accept TLS connections. SSL based port of 5223 has been deprecated many years back.
@@ -101,7 +112,7 @@ Below is a sample of how to use it.
 #+end_src
 
 * Alternatives
-~mail~ is an alternative to sending messages by email. I prefer ~sendxmpp~ over ~mail~ because:
+~mail~ is an alternative if you want to send messages by email. I prefer ~sendxmpp~ over ~mail~ because:
 1. XMPP is supposed to be nearly instant,
 2. XMPP clients have notifications for new message arrivals,
 3. email still requires the client to poll the server to periodically check for new messages.
@@ -109,7 +120,7 @@ Below is a sample of how to use it.
 You may prefer ~mail~ if you want to send long logs as attached files or if you want finer control on messages.
 
 * Conclusion
-This reduces frequently checking what is going on with the script. It also allows you to get results, error codes or any other information that you would like to get as your script progresses.
+This method reduces frequent checking of what is going on with the script. It also allows you to get results, error codes or any other information that you would like to get as your script progresses.
 This should be really useful for all researchers and programmers who run long computation jobs for things like simulations, machine learning and other kinds of scientific computing.
 
 Please be aware that the ~sendxmp~ does not directly provide end-to-end encryption. You can use GnuPG in your ~sendxmpp~ scripts along with OpenPGP supported XMPP clients to help you on it.
