@@ -24,6 +24,7 @@ This was painful. I wanted a notification system that would let me know the prog
 The package is extremely easy to install, configure and use.
 
 * What is XMPP
+[[/img/XMPP_logo.svg]]
 For a naive user's understanding, XMPP is an instant messaging standard allowing users and devices to send messages to anyone else. Because it is a standard, there are many implementations of servers and clients. Individuals are not restricted in a walled garden applications. Wikipedia's [[https://en.wikipedia.org/wiki/XMPP][XMPP page]] gives more information.
 
 * XMPP account
